@@ -1,7 +1,6 @@
 {
   "name": "cms-gatsby-portfolio",
   "version": "0.0.1",
-  
   "dependencies": {
     "ftp-deploy": "^2.3.3",
     "gatsby": "^2.4.3",
