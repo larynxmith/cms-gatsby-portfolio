@@ -5,8 +5,8 @@ import Layout from '../components/Layout';
 import pic1 from '../assets/images/forgetfills.png';
 import pic2 from '../assets/images/p2hprofile.png';
 import pic3 from '../assets/images/forgetfills.png';
-import pic4 from '../assets/images/pic04.jpg';
-import pic5 from '../assets/images/pic05.jpg';
+import pic4 from '../assets/images/forgetfills.png';
+import pic5 from '../assets/images/forgetfills.png';
 import banner from '../assets/images/banner.jpg';
 const IndexPage = () => <Layout>
 	<article id="main">
