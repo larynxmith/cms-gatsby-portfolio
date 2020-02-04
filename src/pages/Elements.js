@@ -2,9 +2,9 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import pic1 from '../assets/images/pic01.jpg';
-import pic2 from '../assets/images/pic02.jpg';
-import pic3 from '../assets/images/pic03.jpg';
+import pic1 from '../assets/images/forgetfills.png';
+import pic2 from '../assets/images/p2hprofile.png';
+import pic3 from '../assets/images/forgetfills.png';
 import pic4 from '../assets/images/pic04.jpg';
 import pic5 from '../assets/images/pic05.jpg';
 import banner from '../assets/images/banner.jpg';
@@ -88,7 +88,7 @@ const IndexPage = () => <Layout>
 							<ul className="icons">
 								<li><a href="/#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
 								<li><a href="/#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-								<li><a href="/#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
+								<li><a href="/#" className="icon brands fa-linkedin"><span className="label">Instagram</span></a></li>
 								<li><a href="/#" className="icon brands fa-github"><span className="label">Github</span></a></li>
 							</ul>
 						</div>

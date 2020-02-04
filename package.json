@@ -1,15 +1,7 @@
 {
-  "name": "gatsby-html5up-spectral",
+  "name": "Christopher Smith",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/app-generator/gatsby-html5up-spectral.git"
-  },
-  "author": {
-    "name": "Sm0ke",
-    "email": "support@appseed.us"
-  },
+  
   "dependencies": {
     "ftp-deploy": "^2.3.3",
     "gatsby": "^2.4.3",
@@ -40,15 +32,5 @@
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.0",
     "rimraf": "^2.6.3"
-  },
-  "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-spectral"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/app-generator/gatsby-html5up-spectral/issues"
-  },
-  "homepage": "https://gatsby-html5up-spectral.appseed.us"
+  }
 }

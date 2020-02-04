@@ -3,10 +3,10 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
-		title: 'Gatsby Html5up - Open-Source app with Spectral design',
+		title: 'Christopher Smith -- Full-Stack Developer',
     description: `Open-Source Gatsby Starter`,
-    author: `@Sm0keDev`,
-		siteUrl: `https://gatsby-html5up-spectral.appseed.us`,
+    author: `Christopher Smith`,
+      siteUrl: `https://https://www.larynxmith.dev/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
