@@ -123,13 +123,13 @@ const IndexPage = () => (
                     <h2><u>Peer-2-Here</u></h2>
                     <ul>
                         <li>
-                            <a href="#">Github Client</a>
+                            <a href="https://github.com/larynxmith/project3-peer2here/tree/master/client">Github Client</a>
                         </li>
                         <li>
-                            <a href="#">Github Server</a>
+                            <a href="https://github.com/larynxmith/project3-peer2here/tree/master/server">Github Server</a>
                         </li>
                         <li>
-                            <a href="#">Live Link</a>
+                            <a href="https://peer2here.herokuapp.com/">Live Link</a>
                         </li>
                     </ul>
                 </div>
@@ -165,7 +165,7 @@ const IndexPage = () => (
                             <a href="https://github.com/larynxmith/project2-whose-wine-is-it">Github</a>
                         </li>
                         <li>
-                            <a href="https://larynxmith.github.io/whose-wine-is-it/">Live Link</a>
+                            <a href="https://whose-wine-is-it.herokuapp.com/">Live Link</a>
                         </li>
                     </ul>
                 </div>
