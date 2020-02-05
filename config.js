@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Christopher Smith -- Full-Stack Developer', // <title>
+  siteTitle: 'Christopher Smith -- Full Stack Developer', // <title>
   manifestName: 'Christopher Smith',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -9,7 +9,7 @@ module.exports = {
 //   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Christopher Smith',
-  subHeading: 'Full-Stack Developer',
+  subHeading: 'Full Stack Developer',
   // social
   socialLinks: [
     {
