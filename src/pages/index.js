@@ -80,7 +80,7 @@ const IndexPage = () => (
         <section id="two" className="wrapper alt style2">
             <section className="spotlight">
                 <div className="title">
-                    <h2><u>Forgetfills</u></h2>
+                    <h2>Forgetfills</h2>
                     <ul>
                         <li>
                             <a href="https://github.com/larynxmith/project4-forgetfills-client">Github Client</a>
@@ -120,7 +120,7 @@ const IndexPage = () => (
             {/* <hr/> */}
             <section id="twoPointOne" className="spotlight">
                 <div className="title">
-                    <h2><u>Peer-2-Here</u></h2>
+                    <h2>Peer-2-Here</h2>
                     <ul>
                         <li>
                             <a href="https://github.com/larynxmith/project3-peer2here/tree/master/client">Github Client</a>
@@ -159,7 +159,7 @@ const IndexPage = () => (
 
             <section id="twoPointTwo" className="spotlight">
                 <div className="title">
-                    <h2><u>Whose Wine Is It, Anyway?</u></h2>
+                    <h2>Whose Wine Is It, Anyway?</h2>
                     <ul>
                         <li>
                             <a href="https://github.com/larynxmith/project2-whose-wine-is-it">Github</a>
