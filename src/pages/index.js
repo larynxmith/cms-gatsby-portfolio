@@ -129,7 +129,7 @@ const IndexPage = () => (
                             <a href="https://github.com/larynxmith/project3-peer2here/tree/master/server">Github Server</a>
                         </li>
                         <li>
-                            <a href="https://peer2here.herokuapp.com/">Live Link</a>
+                            <a href="https://peer-2-here-client.herokuapp.com/">Live Link</a>
                         </li>
                     </ul>
                 </div>
