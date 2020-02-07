@@ -34,7 +34,7 @@ module.exports = {
         style: 'fa',
         icon: 'fa-file',
         name: 'Resume',
-        url: 'https://github.com/larynxmith/cms-gatsby-portfolio/blob/master/resume.pdf',
+        url: 'https://drive.google.com/file/d/1nokvMEb_CVM5KRGnAa05_GOFI4TJ315_/view?usp=sharing',
     }
   ],
 };
